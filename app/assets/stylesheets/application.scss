@@ -1,0 +1,15 @@
+@import "bootstrap/scss/bootstrap";
+.links{
+  display: flex;
+}
+a{
+  margin: 50px;
+}
+p{
+  background-color: rgba(200, 200, 200, 0.1);
+}
+.container{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
